@@ -1,6 +1,6 @@
 # spz_gas
-2020/1/9 SPZで使用します
-
+2020/1/9 サポーターズColabで使用しました。
+2023/XX/XX 
 
 ## サンプルコード
 
@@ -9,9 +9,12 @@
 コード　reporting_mail.gs　：日報を自動化するコード
 
 ## GASの始め方
-・Google Apps Scriptを直接開く。
+・2方法あります。
+①Google Apps Scriptを直接開く。
 
-・Googleスプレッドシート＞ツール＞スクリプトエディタ
+②Googleサービスから紐づけて作成する。
+e.g. スプレッドシート
+ ・Googleスプレッドシート＞ツール＞スクリプトエディタ
 
 
 ## GoogleカレンダーのイベントをHangouts Chatに通知するbotを作った話
