@@ -11,6 +11,7 @@
 
 ## GASの始め方
 ・2方法あります。
+
 ①Google Apps Scriptを直接開く。
 
 ②Googleサービスから紐づけて作成する。
