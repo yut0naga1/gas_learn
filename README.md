@@ -1,7 +1,6 @@
-# spz_gas
-2020/1/9 サポーターズColabで使用しました。
-
-2023/XX/XX 
+# GAS（Google Apps Script）勉強会
+2020/1/9にサポーターズColabで実施した勉強会をベースに作成しています。
+上記含めて2020年に3回実施
 
 ## サンプルコード
 
@@ -10,7 +9,7 @@
 コード　reporting_mail.gs　：日報を自動化するコード
 
 ## GASの始め方
-・2方法あります。
+2方法あります。
 
 ①Google Apps Scriptを直接開く。
 
@@ -20,25 +19,15 @@ e.g. スプレッドシート
 
  ・Googleスプレッドシート＞ツール＞スクリプトエディタ
 
+## 過去作成したモノのコード
 
-## GoogleカレンダーのイベントをHangouts Chatに通知するbotを作った話
+### GoogleカレンダーのイベントをHangouts Chatに通知するbot
 
 https://qiita.com/yut0n/items/02a632c90fc076a21046
 
+### Googleフォームへの自動返答メール
 
-##  memo
-
-日報テンプレ
-
-お疲れ様です。TANTOです。本日の日報です。
-
-＜今日のタスク予定＞
-
-＜進捗＞
-
-＜次営業日の予定＞
-
-＜つぶやき＞
+https://qiita.com/yut0n/items/3b7092105f8b727566c0
 
 ## 時限起動
 
